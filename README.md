@@ -23,4 +23,7 @@ URL: ec2-34-215-14-152.us-west-2.compute.amazonaws.com
 
 
 # How to open the website
-1. Paste the URL ec2-34-215-14-152.us-west-2.compute.amazonaws.com into your favorite browser. 
+1. Paste the URL ec2-18-237-87-44.us-west-2.compute.amazonaws.com into your favorite browser. 
+
+# Third Party Applications: 
+1. Amazon Web Services (AWS) E2C Instance

@@ -3,8 +3,8 @@ This project is a linux server hosting the Item_Catalog repository I previously 
 
 
 # IP Address and URL 
-Ip Address: 34.215.14.152
-URL: ec2-34-215-14-152.us-west-2.compute.amazonaws.com
+Ip Address: 18.237.87.44
+URL: ec2-18-237-87-44.us-west-2.compute.amazonaws.com
 
 #Summary of Software Installed: 
 1. Pip
